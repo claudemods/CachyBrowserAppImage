@@ -1,6 +1,9 @@
 latest and greatest unofficial Cachy Browser Built From Cachyos Repo Package v134.0-1
 
 if you like what I'm doing and want to support me to improve, 
+
+
+
 please consider donating.
 Buy me a 🍕🥧 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
